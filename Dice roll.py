@@ -1,6 +1,6 @@
-import random 
+import random               
 
-while True: 
+while True:  
    
  choice = (input("Roll dice? (Y/N) ")).lower()
    
